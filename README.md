@@ -1,7 +1,7 @@
 # DH110_Assign6
 
 <h2>Description of project: </>h2
-While low-flow protuping allows us to study the general idea  of the screens/steps we hope to create for our designs, high fidelity prototyping allows us to highlight a single component of our app and gather feedback of items that are directly related to the constitution of the app (i.e.font, color scheme, text size, image size, etc.) Basically high fidelity testing gets us as close as we can get to the actual application/website UI without actually constructing the entire prototype. Another interesting outcome of high deity testing is that we are also able to more accurately time how long a user takes to do a task. So for my screen designs, the user will be joining a book group by searching for them in the search bar.
+<p>While low-flow protuping allows us to study the general idea  of the screens/steps we hope to create for our designs, high fidelity prototyping allows us to highlight a single component of our app and gather feedback of items that are directly related to the constitution of the app (i.e.font, color scheme, text size, image size, etc.) Basically high fidelity testing gets us as close as we can get to the actual application/website UI without actually constructing the entire prototype. Another interesting outcome of high deity testing is that we are also able to more accurately time how long a user takes to do a task. So for my screen designs, the user will be joining a book group by searching for them in the search bar.</p>
 
 
 <h2>Design System:</h2>
