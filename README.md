@@ -53,7 +53,17 @@ https://framer.com/projects/Assignment2--vmBgV5DLOAX6ThiilD0u-5ZyqK
 <img src="https://user-images.githubusercontent.com/82078120/118075342-af0e8d00-b364-11eb-9802-cb5c33bfa7fe.png" alt="Beige Design with Arrows">
 
 <h2>Discussion</h2>
-<p> Honestly, as I was creating the screens, I already changed my mind on how the results will be shown. </p>
+<p> Honestly, as I was creating the screens, I already changed my mind on how the results will be shown. The ideas I have seem to involve coding so hopefully for the next assignment it will be ready. For the Impression Test, I saw that there are two variations: 1.) a 15 second glance then discussion 2.) a minute long test where the user goes through the steps/screens. I decided to do both! 
+
+**First Impression Test:** for the 15 second glance I showed the screenshots I took for the light mode and dark mode variations. For the light mode, the user commented "That it looks real." "simple." "very simple." "bookie!". Simplicity was what I was going for so I am happy they commented that. 
+For the dark mode, "it looks real." "smart." like I get it." I think for their last comment, they mean the color scheme for dark mode since the quote before (seemed to be) pertained to the color scheme as well.
+
+**Second Impression Test**
+a minute long test: asked them to search for a book group to join by searching for one using the sear bar. They completed the task very quickly so I told them to take their time until the minute is up. 
+
+Some thoughts they had: "it was difficult to start." since they did not know how to begin the task. I did try to prompt them but they would just say by asking "How was your experience" and "Any thoughts you have?" The latter question I hoped would lead to more opinions being shared since I learned in one of my lingutitcs class, that "any" while used in negative sentences, can elicit repsonses since it causes people to think to see if they actually have **just any** thoughts/opinons/questions. The user simply said "it was nice." And honestly, I do consider this a bit of a victory since for my last prototype, my drawings were commical to the other user. So them not having a definite opinion of the app is fine for me right now since it shows my protoype is "mundane" enough to pass off as an actual interfernace. 
+
+**Final Thoughts:** As mentioned before, I already know what I want to change: the search function and the layout of the results page. For my intial search option, I was inspired by Discord's search function since it makes it so easy to find messages sow hile I think a similiar one may work for my app, I think for the intended users, it will be better if I change it. I did not go through many difficulties, I just struggled a bit understanding how Framer components work but I plan on studying them more to use them later. But I also just felt limited by own knowledge. I am a Linguistics Major; however, I have not yet formally studied topics related to "Localization" (a field I am interested in). I felt applying some here would be suitbale for my app since I plan on adding multi-language suppport.
 
 
 
