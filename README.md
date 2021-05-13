@@ -20,11 +20,11 @@
 
 <h2>Design System:</h2>
 
-**Font: Libre Baskerville**
+<h3>Font: Libre Baskerville</h3>
 <p>The font I chose for my screen designs is Libre Baskerville. Since it is taller x-height, wider counters and a little less contrast”  it is suitable for reading on the screen. It is primarily used for body text and since my current and future screen designs will be itzling a lot of text, I think using Libre Baskerville as the principal font is a good choice. Once again,  this is the only font I am using to make sure the overall design of the prototype is cohesive but I am considering adding another font to differentiate between the “bookish” details and app features (for example book titles vs search results). Also, the font reminds me of a more modern venison of the actual fonts used in physical books.</p>
 
-**Color scheme: background, primary (default text), focus (ex. button)**
-<p>Figuring out the color palette was difficult. I did try to make the process of choosing one easier by relying on color psychology but even researching the colors and the associated meanings made it a bit harder. Since this is a social and an archive app, it has to highlight the books themselves as well as the sense of the community users will experience when they use the app. So I wanted the color palette to be warm and inviting… a bit like actual books.  
+<h3>Color scheme: background, primary (default text), focus (ex. button)</h3>
+<p>Figuring out the color palette was difficult. I did try to make the process of choosing one easier by relying on color psychology but even researching the colors and the associated meanings made it a bit harder. Since this is a social and an archive app, it has to highlight the books themselves as well as the sense of the community users will experience when they use the app. So I wanted the color palette to be warm and inviting… a bit like actual books. Below I included the color palettes passing the contrast test: the top one is the one I am using for the light mode and beige variations of the app while the second one is for the dark mode variation.
   
  <img src="https://user-images.githubusercontent.com/82078120/118075033-17a93a00-b364-11eb-82cb-c006177ca841.png" alt="Color Scheme">
  
