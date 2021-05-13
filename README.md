@@ -27,6 +27,8 @@
 <p>Figuring out the color palette was difficult. I did try to make the process of choosing one easier by relying on color psychology but even researching the colors and the associated meanings made it a bit harder. Since this is a social and an archive app, it has to highlight the books themselves as well as the sense of the community users will experience when they use the app. So I wanted the color palette to be warm and inviting… a bit like actual books.  
   
  <img src="https://user-images.githubusercontent.com/82078120/118075033-17a93a00-b364-11eb-82cb-c006177ca841.png" alt="Color Scheme">
+ 
+  <img src="https://user-images.githubusercontent.com/82078120/118076667-7f14b900-b367-11eb-800d-904cb0ea71d7.png" alt="Dark Color Scheme">
 
 **Layout grid + spacing:**
 <p>I am still researching the best way to go about the layout of the app. As I was studying different apps, I see that the biggest issue many have is following the Gestalt Principle of Proximity. Poor formatting can lead to different sections being too close to one another (like the in class assignment I did on Suzanne Collins website) and cuase readiability to be difficult. I also remembered that for many years, GoodReads (a social and archive app) had a poor layout grid since text and hyperlinks seemed to be in random places on their website. So that is also another aspect, having a layout grid that does not make sense, I am trying to avoid it. Right now, I am currently using lines to separate different sectioned text. For example, the search results have very faint lines separating each search result. And on book groups’ discussion pages, the different section titles are underlined to differentiate between one another. </p>
@@ -34,18 +36,25 @@
 <h2>Project and Discussion</h2>
 https://framer.com/projects/Assignment2--vmBgV5DLOAX6ThiilD0u-5ZyqK
 
-**First Color Varation: Hue -- beige is the principal/background color**
+**Color Variation: Light Mode** 
+<img src="https://user-images.githubusercontent.com/82078120/118077226-88eaec00-b368-11eb-8235-38b80e0b3e6e.png" alt="Light Mode Design">
+
+<img src="https://user-images.githubusercontent.com/82078120/118077220-87b9bf00-b368-11eb-971f-01df1a16e57b.png" alt="Light Mode Arrow Design">
+
+**Color Variation: Dark Mode**
+<img src="https://user-images.githubusercontent.com/82078120/118076670-7fad4f80-b367-11eb-8f11-532e197dd892.png" alt="Dark Mode Design">
+
+<img src="https://user-images.githubusercontent.com/82078120/118076671-80de7c80-b367-11eb-9b9d-85dbeabbd246.png" alt="Dark Mode Arrow Design">
+
+**Color Varation: Hue -- beige is the principal/background color**
 <img src="https://user-images.githubusercontent.com/82078120/118075081-2abc0a00-b364-11eb-82df-4323d7872a71.png" alt="Beige Design">
 
 
 <img src="https://user-images.githubusercontent.com/82078120/118075342-af0e8d00-b364-11eb-9802-cb5c33bfa7fe.png" alt="Beige Design with Arrows">
 
-**Second Color Variation: Dark Mode**
-<img src="https://user-images.githubusercontent.com/82078120/118075081-2abc0a00-b364-11eb-82df-4323d7872a71.png" alt="Dark Mode Design">
 
-<img src="https://user-images.githubusercontent.com/82078120/118075081-2abc0a00-b364-11eb-82df-4323d7872a71.png" alt="Dark Mode Arrow Design">
 
-**Third Color Variation: Light Mode** 
+
 
 
 
