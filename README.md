@@ -33,7 +33,7 @@
 **Layout grid + spacing:**
 <p>I am still researching the best way to go about the layout of the app. As I was studying different apps, I see that the biggest issue many have is following the Gestalt Principle of Proximity. Poor formatting can lead to different sections being too close to one another (like the in class assignment I did on Suzanne Collins website) and cause readiability to be difficult. I also remembered that for many years, GoodReads (a social and archive app about books) had a poor layout grid since text and hyperlinks seemed to be in random places on their website. So that is also another aspect, having a layout grid that does not make sense, I am trying to avoid it. Right now, I am currently using lines to separate different sectioned text. For example, the search results have very faint lines separating each search result. And on book groups’ discussion pages, the different section titles are underlined to differentiate between one another. For the spacing between components I did it manuallly but I will try to update the design so that I am using the "Stack" feature of Framer. </p>
 
-<h2>Project and Discussion</h2>
+<h2>Project</h2>
 https://framer.com/projects/Assignment2--vmBgV5DLOAX6ThiilD0u-5ZyqK
 
 **Color Variation: Light Mode** 
@@ -52,8 +52,8 @@ https://framer.com/projects/Assignment2--vmBgV5DLOAX6ThiilD0u-5ZyqK
 
 <img src="https://user-images.githubusercontent.com/82078120/118075342-af0e8d00-b364-11eb-9802-cb5c33bfa7fe.png" alt="Beige Design with Arrows">
 
-
-
+<h2>Discussion</h2>
+<p> Honestly, as I was creating the screens, I already changed my mind on how the results will be shown. </p>
 
 
 
