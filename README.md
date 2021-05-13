@@ -52,6 +52,8 @@ https://framer.com/projects/Assignment2--vmBgV5DLOAX6ThiilD0u-5ZyqK
 
 <img src="https://user-images.githubusercontent.com/82078120/118075342-af0e8d00-b364-11eb-9802-cb5c33bfa7fe.png" alt="Beige Design with Arrows">
 
+**Impression Test Recording:** https://drive.google.com/file/d/1kbLD0B-DiDlFMAzJaKJaApqfqmYTgkJn/view?usp=sharing
+
 <h2>Discussion</h2>
 <p> Honestly, as I was creating the screens, I already changed my mind on how the results will be shown. The ideas I have seem to involve coding so hopefully for the next assignment it will be ready. For the Impression Test, I saw that there are two variations: 1.) a 15 second glance then discussion 2.) a minute long test where the user goes through the steps/screens. I decided to do both! 
 
