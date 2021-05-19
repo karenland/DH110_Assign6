@@ -72,9 +72,13 @@ Some thoughts they had: "it was difficult to start." since they did not know how
 **Interactive Prototype:** https://framer.com/projects/Assignment6-copy--yxiyYMQgpb9gkssbnTZC-3dFlU
 I included a new task and also revamped the previous one I created interactions for.
 
-**The old, revamped task:** Users are looking for book groups to join using the search icon or search bar.
+**The old, revamped task:** Users are looking for book groups to join using the search icon or search bar. There is now a discover page.
+
+<img src="https://user-images.githubusercontent.com/82078120/118890695-fc828100-b8b3-11eb-95d8-932df33898ec.gif" alt="Gif of Book Groups">
 
 **The new task:** users are going through the settings to change the language
+
+<img src="https://user-images.githubusercontent.com/82078120/118892081-343df880-b8b5-11eb-84aa-2c23c1abc5cf.gif" alt="Gif of Settings">
 
 **General updates to the interface I made:** increased font size, more buttons are being used. Added the star rating
 
