@@ -68,7 +68,25 @@ Some thoughts they had: "it was difficult to start." since they did not know how
 **Final Thoughts:** As mentioned before, I already know what I want to change: the search function and the layout of the results page. For my initial search option, I was inspired by Discord's search function since it makes it so easy to find messages so while I think a similar one may work for my app, I think for the intended users, it will be better if I change it. I did not go through many difficulties, I just struggled a bit understanding how Framer components work but I plan on studying them more to use them later. But I also just felt limited by my own knowledge. I am a Linguistics major; however, I have not yet formally studied topics related to "Localization" (a field I am interested in). I felt applying some here would be suitable for my app since I plan on adding multi-language support.
 
 
+<h2> PART 2 </h2>
+**Interactive Prototype:** https://framer.com/projects/Assignment6-copy--yxiyYMQgpb9gkssbnTZC-3dFlU
+I included a new task and also revamped the previous one I created interactions for.
 
+**The old, revamped task:** Users are looking for book groups to join using the search icon or search bar.
+
+**The new task:** users are going through the settings to change the language
+
+**General updates to the interface I made:** increased font size, more buttons are being used. Added the star rating
+
+**Future Plans and Thoughts:** As of right now, before the cognitive walkthrough, I do plan on changing the home screen to show updates from friends/authors/groups/etc. I plan on adding in text onto the taskbar. From research, older aged users prefer texts over icons so I plan on incorporating both. The text will at minimum be 12 pt and bolded. I was considering changing the color scheme since “blue” tends to help users relax and for the elderly, new technology can be daunting; however, it seems that colors within the blue-green spectrum are harder for them to distinguish so I am keeping the color scheme.
+
+**Video of Prototype**
+
+
+Sources:
+https://uxplanet.org/ux-study-designing-for-older-people-6c67575d9c2f
+https://www.toptal.com/designers/ui/ui-design-for-older-adults
+https://www.diva-portal.org/smash/get/diva2:416488/FULLTEXT01.pdf
 
 
 
