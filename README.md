@@ -82,11 +82,16 @@ I included a new task and also revamped the previous one I created interactions 
 
 **General updates to the interface I made:** increased font size, more buttons are being used. Added the star rating
 
+**Font**
+- on the results page --> book and group titeles used 
+- 
+
 **Future Plans and Thoughts:** As of right now, before the cognitive walkthrough, I do plan on changing the home screen to show updates from friends/authors/groups/etc. I plan on adding in text onto the taskbar. From research, older aged users prefer texts over icons so I plan on incorporating both. The text will at minimum be 12 pt and bolded. I was considering changing the color scheme since “blue” tends to help users relax and for the elderly, new technology can be daunting; however, it seems that colors within the blue-green spectrum are harder for them to distinguish so I am keeping the color scheme.
 
 
-<h3>Task One: Updated Wireflow</h3>
+<h3>**Task One:** Updated Wireflow on Joining a Book Group </h3>
 
+A simplified version that is just meant to highlight the steps for the design.
 <img src="https://user-images.githubusercontent.com/82078120/118893754-d232c280-b8b7-11eb-8396-79fe3cef776e.png" alt="1.1">
 <img src="https://user-images.githubusercontent.com/82078120/118893758-d4951c80-b8b7-11eb-8bc2-cb7288304e1c.jpg" alt="1.2">
 <img src="https://user-images.githubusercontent.com/82078120/118893767-d6f77680-b8b7-11eb-88ad-3fda1142c6c2.jpg" alt="1.3">
