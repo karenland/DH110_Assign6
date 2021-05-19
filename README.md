@@ -84,7 +84,9 @@ I included a new task and also revamped the previous one I created interactions 
 
 **Future Plans and Thoughts:** As of right now, before the cognitive walkthrough, I do plan on changing the home screen to show updates from friends/authors/groups/etc. I plan on adding in text onto the taskbar. From research, older aged users prefer texts over icons so I plan on incorporating both. The text will at minimum be 12 pt and bolded. I was considering changing the color scheme since “blue” tends to help users relax and for the elderly, new technology can be daunting; however, it seems that colors within the blue-green spectrum are harder for them to distinguish so I am keeping the color scheme.
 
-**Video of Prototype**
+
+<h3>Task One: Updated Wireflow</h3>
+
 
 
 Sources:
