@@ -87,7 +87,9 @@ I included a new task and also revamped the previous one I created interactions 
 
 <h3>Task One: Updated Wireflow</h3>
 
-
+<img src="https://user-images.githubusercontent.com/82078120/118893754-d232c280-b8b7-11eb-8396-79fe3cef776e.png" alt="1.1">
+<img src="https://user-images.githubusercontent.com/82078120/118893758-d4951c80-b8b7-11eb-8bc2-cb7288304e1c.jpg" alt="1.2">
+<img src="https://user-images.githubusercontent.com/82078120/118893767-d6f77680-b8b7-11eb-88ad-3fda1142c6c2.jpg" alt="1.3">
 
 Sources:
 https://uxplanet.org/ux-study-designing-for-older-people-6c67575d9c2f
