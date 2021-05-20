@@ -89,7 +89,7 @@ I included a new task and also revamped the previous one I created interactions 
 **Future Plans and Thoughts:** As of right now, before the cognitive walkthrough, I do plan on changing the home screen to show updates from friends/authors/groups/etc. I plan on adding in text onto the taskbar. From research, older aged users prefer texts over icons so I plan on incorporating both. The text will at minimum be 12 pt and bolded. I was considering changing the color scheme since “blue” tends to help users relax and for the elderly, new technology can be daunting; however, it seems that colors within the blue-green spectrum are harder for them to distinguish so I am keeping the color scheme.
 
 
-<h3>**Task One:** Updated Wireflow on Joining a Book Group </h3>
+<h3>Task One: Updated Wireflow on Joining a Book Group </h3>
 
 A simplified version that is just meant to highlight the steps for the design.
 <img src="https://user-images.githubusercontent.com/82078120/118893754-d232c280-b8b7-11eb-8396-79fe3cef776e.png" alt="1.1">
@@ -97,11 +97,22 @@ A simplified version that is just meant to highlight the steps for the design.
 <img src="https://user-images.githubusercontent.com/82078120/118893767-d6f77680-b8b7-11eb-88ad-3fda1142c6c2.jpg" alt="1.3">
 
 
-<h3>**Task Two:** Updated Wireflow on Changing the Language via the Settings feature </h3>
+<h3>Task Two: Updated Wireflow on Changing the Language via the Settings feature </h3>
 
 A simplified version that is just meant to highlight the steps for the design.
 <img src="https://user-images.githubusercontent.com/82078120/118899627-01e7c780-b8c4-11eb-83f4-061b7f5c9f3b.jpg" alt="2">
 
+**Basic Steps**
+ <ol>
+  <li> wherever you are on the app, you click the farthest right icon on the bottom task bar to reach profile page
+  <li> on user's profile page, click on the gear icon to go settings page </li>
+  <li> search for the langauge option, click on it </li>
+  <li> leads to a list of languages/li>
+  <li> click on the desired language </li>
+   <li> a pop up screen appears to show user they changed the app's language</li>
+   <li> click the x on the pop up screen </li>
+   <li> keep clicking back on the settings pages to go back to profile page</li>
+  </ol>
 
 Sources:
 https://uxplanet.org/ux-study-designing-for-older-people-6c67575d9c2f
