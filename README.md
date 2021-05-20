@@ -1,5 +1,7 @@
 # DH110_Assign6
 
+Scroll down for Part Two.
+
 <h2>Description of project: </h2>
 <p>While low-fidelity prototyping allows us to study the general idea of the screens/steps we hope to create for our designs, high fidelity prototyping (but this assignment in particular) allows us to highlight a single component of our app and gather feedback of items that are directly related to the constitution of the app (i.e.font, color scheme, text size, image size, etc.) Basically high fidelity testing gets us as close as we can get to the actual application/website UI without actually constructing the entire application/website. Another interesting outcome of high-fidelity  testing is that we are also able to more accurately time how long a user takes to do a task.</p>
   
