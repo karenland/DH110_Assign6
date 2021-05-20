@@ -102,9 +102,9 @@ A simplified version that is just meant to highlight the steps for the design.
 A simplified version that is just meant to highlight the steps for the design.
 <img src="https://user-images.githubusercontent.com/82078120/118899627-01e7c780-b8c4-11eb-83f4-061b7f5c9f3b.jpg" alt="2">
 
-**Basic Steps**
+**Steps to Change the Language**
  <ol>
-  <li> wherever you are on the app, you click the farthest right icon on the bottom task bar to reach profile page
+  <li> wherever you are on the app, you click the farthest right icon on the bottom task bar to reach profile page </li>
   <li> on user's profile page, click on the gear icon to go settings page </li>
   <li> search for the langauge option, click on it </li>
   <li> leads to a list of languages/li>
@@ -114,18 +114,19 @@ A simplified version that is just meant to highlight the steps for the design.
    <li> keep clicking back on the settings pages to go back to profile page</li>
   </ol>
   
+**Cognitve Walkthrough:**
+First, these are the comments I got from the walkthrough in class.
+ <ol>
+  <li> change icon for discover --> completely agree </li>
+  <li> there are some typos --> this was on purpose! I was taught that when asking for criticism, include an easy one so people are more comfortable and primed to look for mistakes and/or make criticisms <li>
+  <li> revisit the settings page and fix the spacing --> again my thoughts exactly</li>
+   <li> make it more obvious that the user can search for books, groups, lists, using both discover and the search bar --> agree!! it's not obvious that users can use the search options to look for items others than books </li>
+  </ol>
   
-  Cognitve Walkthrough:
 
-
-
-Below are the comments I recieved for the app:
-  1.) change icon for discover
-  2.) there are some typos
-  3.) revisit the settings page and fix the spacing
-  4.) make it more obvious that the user can search for books, groups, lists, using both discover and the search bar
+  <img src=" https://user-images.githubusercontent.com/82078120/118904587-09609e00-b8cf-11eb-93b6-b07b92a24a36.jpg" alt="in-class walkthrough">
   
-  And all of these changes I will make to the app since I consider them sound advice. 
+ And all of these changes I will make to the app since I consider them sound advice. I enjoyed doing the walkthrough. However, not sure if it is an issue with my laptop, design, or framer itslef, but some of my screens are awkward. Awkward in that they do not scroll easily or transition smoothly. The gifs I included show the stalled transitions that happens; they only happen when I go through the whole prototpye; when I got on the screens where the tasks are actually done, there are no issues.
 
 Sources:
 https://uxplanet.org/ux-study-designing-for-older-people-6c67575d9c2f
