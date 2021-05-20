@@ -85,7 +85,7 @@ I included a new task and also revamped the previous one I created interactions 
 **General updates to the interface I made:** increased font size, more buttons are being used. Added the star rating
 
 **Font**
-on the results page --> book and group titeles used 
+on the results page --> book and group titles used 
  <ol>
   <li> 12 pt is used for the descriptions on the results pages for books</li>
   <li> 13 pt is used for the descriptions on the results pages for the book groups</li>
@@ -99,7 +99,7 @@ on the results page --> book and group titeles used
    <li> 18 pt bolded is used for the name on the user's profile page</li>
   </ol>
 
-Overall, the font sizes from the prototype vary from 12 to 55 (bolded and non-bolded) with 16+18 pt being the ones I used most frequently. There is alot fo variation, so I will need to match it so that all descriptions and titles are a certain size and weight. 
+Overall, the font sizes from the prototype vary from 12 to 55 (bolded and non-bolded) with 16+18 pt being the ones I used most frequently. There is alot of variation, so I will need to make it so that all descriptions and titles are a certain size and weight. 
 
 **Future Plans and Thoughts:** As of right now, before the cognitive walkthrough, I do plan on changing the home screen to show updates from friends/authors/groups/etc. I plan on adding in text onto the taskbar. From research, older aged users prefer texts over icons so I plan on incorporating both. The text will at minimum be 12 pt and bolded. I was considering changing the color scheme since “blue” tends to help users relax and for the elderly, new technology can be daunting; however, it seems that colors within the blue-green spectrum are harder for them to distinguish so I am keeping the color scheme.
 
