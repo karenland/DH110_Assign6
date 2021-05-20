@@ -83,8 +83,21 @@ I included a new task and also revamped the previous one I created interactions 
 **General updates to the interface I made:** increased font size, more buttons are being used. Added the star rating
 
 **Font**
-- on the results page --> book and group titeles used 
-- 
+on the results page --> book and group titeles used 
+ <ol>
+  <li> 12 pt is used for the descriptions on the results pages for books</li>
+  <li> 13 pt is used for the descriptions on the results pages for the book groups</li>
+  <li> 16 pt bolded is used for all the titles on the results pages </li>
+  <li> 15 pt is used for the authors and main book genre/type on the results page for books </li>
+  <li> 16 pt bolded is used for the discover page titles /li>
+  <li> 14 pt bolded is used for groups' profile pages/li>
+  <li> 55 pt bolded is used for the home page's "Today's Top Reads" --> i have a future plan for this one</li>
+   <li> 45 pt for the "Genre" subtitle on the home page </li>
+   <li> 30 pt bolded is used on the group's profile page for the GROUP NAME </li>
+   <li> 18 pt bolded is used for the name on the user's profile page</li>
+  </ol>
+
+Overall, the font sizes from the prototype vary from 12 to 55 (bolded and non-bolded) with 16+18 pt being the ones I used most frequently. There is alot fo variation, so I will need to match it so that all descriptions and titles are a certain size and weight. 
 
 **Future Plans and Thoughts:** As of right now, before the cognitive walkthrough, I do plan on changing the home screen to show updates from friends/authors/groups/etc. I plan on adding in text onto the taskbar. From research, older aged users prefer texts over icons so I plan on incorporating both. The text will at minimum be 12 pt and bolded. I was considering changing the color scheme since “blue” tends to help users relax and for the elderly, new technology can be daunting; however, it seems that colors within the blue-green spectrum are harder for them to distinguish so I am keeping the color scheme.
 
@@ -118,15 +131,22 @@ A simplified version that is just meant to highlight the steps for the design.
 First, these are the comments I got from the walkthrough in class.
  <ol>
   <li> change icon for discover --> completely agree </li>
-  <li> there are some typos --> this was on purpose! I was taught that when asking for criticism, include an easy one so people are more comfortable and primed to look for mistakes and/or make criticisms <li>
+  <li> there are some typos --> this was on purpose! I was taught that when asking for criticism, include an easy one so people are more comfortable and primed to look for mistakes and/or make criticisms (don't worry I only do this for like group/class projects) <li>
   <li> revisit the settings page and fix the spacing --> again my thoughts exactly</li>
+   <li> revisit the settings page and also indicate the language that is being chosen (so keep the pop up screen but also bold the language choice made) --> agree!! </li>
    <li> make it more obvious that the user can search for books, groups, lists, using both discover and the search bar --> agree!! it's not obvious that users can use the search options to look for items others than books </li>
   </ol>
   
-
   <img src="https://user-images.githubusercontent.com/82078120/118904587-09609e00-b8cf-11eb-93b6-b07b92a24a36.jpg" alt="in-class walkthrough">
   
- And all of these changes I will make to the app since I consider them sound advice. I enjoyed doing the walkthrough. However, not sure if it is an issue with my laptop, design, or framer itslef, but some of my screens are awkward. Awkward in that they do not scroll easily or transition smoothly. The gifs I included show the stalled transitions that happens; they only happen when I go through the whole prototpye; when I got on the screens where the tasks are actually done, there are no issues.
+ And all of these changes I will make to the app since I consider them sound advice. I enjoyed doing the walkthrough. However, not sure if it is an issue with my laptop, design, or framer itself, but some of my screens are awkward. Awkward in that they do not scroll easily (i.e. white spaces) or transition smoothly. The gifs I included show the stalled transitions that occur; they only happen when I go through the whole prototpye; when I got on the screens where the tasks are actually done, there are no issues. In general, they said the steps to complete the tasks are easy to understand and do!! Which I am happy about- in all the related elderly UI articles I have seen, the biggest obstacle is simply making all the possible steps within an app easy for this age group to do.
+ 
+ 
+ **Reflections**
+I did try to use code to create some of the features but as I was looking for tutorials, the features I wanted to try out with code were simply done without. So I haven't altered the code for the prototpye yet. I did use components for this version of the prototype: the button "want to read". It wasn't too hard but I did struggle a bit since I forgot I had to connect "version 1" to "version 2" using an interaction- that was just an oversight on my part. I think I can use components to at least create clickable buttons. One struggle I have is with the typogrpahy. For some texts on the app, they still have periods at the end of them and others do not. Like I mentioned beofe, I wanted to add periods to the titles to keep a bookish theme but I think it is just unessary. As I was researching UX/UI trends, I saw that the elderly prefer when the app is not cluttered with doodless/shapes/etc. and such so it may be best to leave out the periods.
+
+As mentioned before, I will be implementing all the advice that was given to me. Besides that, I will also be changing the home page. I still think the "Today's Popular Reads" is a fun feature but I think instead of making as a page, it will be a pop up screen that once exited, will show a feed of updates, reviews, etc made by other users (so like any other social media app). The spacing issue on the setting page also reminded me that I should change the page itself since it is the only one that has borders between the options. 
+
 
 Sources:
 https://uxplanet.org/ux-study-designing-for-older-people-6c67575d9c2f
