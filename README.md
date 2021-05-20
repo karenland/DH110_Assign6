@@ -124,7 +124,7 @@ First, these are the comments I got from the walkthrough in class.
   </ol>
   
 
-  <img src=" https://user-images.githubusercontent.com/82078120/118904587-09609e00-b8cf-11eb-93b6-b07b92a24a36.jpg" alt="in-class walkthrough">
+  <img src="https://user-images.githubusercontent.com/82078120/118904587-09609e00-b8cf-11eb-93b6-b07b92a24a36.jpg" alt="in-class walkthrough">
   
  And all of these changes I will make to the app since I consider them sound advice. I enjoyed doing the walkthrough. However, not sure if it is an issue with my laptop, design, or framer itslef, but some of my screens are awkward. Awkward in that they do not scroll easily or transition smoothly. The gifs I included show the stalled transitions that happens; they only happen when I go through the whole prototpye; when I got on the screens where the tasks are actually done, there are no issues.
 
