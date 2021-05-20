@@ -113,6 +113,19 @@ A simplified version that is just meant to highlight the steps for the design.
    <li> click the x on the pop up screen </li>
    <li> keep clicking back on the settings pages to go back to profile page</li>
   </ol>
+  
+  
+  Cognitve Walkthrough:
+
+
+
+Below are the comments I recieved for the app:
+  1.) change icon for discover
+  2.) there are some typos
+  3.) revisit the settings page and fix the spacing
+  4.) make it more obvious that the user can search for books, groups, lists, using both discover and the search bar
+  
+  And all of these changes I will make to the app since I consider them sound advice. 
 
 Sources:
 https://uxplanet.org/ux-study-designing-for-older-people-6c67575d9c2f
