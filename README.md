@@ -96,6 +96,13 @@ A simplified version that is just meant to highlight the steps for the design.
 <img src="https://user-images.githubusercontent.com/82078120/118893758-d4951c80-b8b7-11eb-8bc2-cb7288304e1c.jpg" alt="1.2">
 <img src="https://user-images.githubusercontent.com/82078120/118893767-d6f77680-b8b7-11eb-88ad-3fda1142c6c2.jpg" alt="1.3">
 
+
+<h3>**Task Two:** Updated Wireflow on Changing the Language via the Settings feature </h3>
+
+A simplified version that is just meant to highlight the steps for the design.
+<img src="https://user-images.githubusercontent.com/82078120/118899627-01e7c780-b8c4-11eb-83f4-061b7f5c9f3b.jpg" alt="2">
+
+
 Sources:
 https://uxplanet.org/ux-study-designing-for-older-people-6c67575d9c2f
 https://www.toptal.com/designers/ui/ui-design-for-older-adults
